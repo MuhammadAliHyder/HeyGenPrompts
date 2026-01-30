@@ -1,0 +1,145 @@
+Create a 10-second AVATAR-LESS video for output consistency testing.
+
+IMPORTANT:
+- Do NOT use any AI avatar or talking head
+- Do NOT show any speaking human
+- This is a single continuous scene
+- The goal is to generate visually similar clips across multiple runs
+
+--------------------------------------------------
+GLOBAL CONSTRAINTS (VERY IMPORTANT)
+--------------------------------------------------
+
+- One single scene only
+- No scene transitions
+- No cuts
+- No text overlays
+- No logos
+- No motion graphics
+- No visual effects
+- No background music
+- No sound effects
+- No creative edits
+
+--------------------------------------------------
+SCRIPT (LOCKED — DO NOT CHANGE WORDING)
+--------------------------------------------------
+
+FULL SCRIPT (voiceover only, exact wording):
+
+“Great design and simple tools help people move forward every day.”
+
+--------------------------------------------------
+VISUAL SCENE DEFINITION (LOCKED)
+--------------------------------------------------
+
+Scene Type:
+- Calm urban street with nature elements
+- Modern city environment
+- Sidewalk with trees along the street
+
+Environment Details:
+- Wide sidewalk
+- Green trees on both sides
+- Modern buildings in background
+- Clean, minimal city look
+- No landmarks
+- No readable signs
+- No brand names
+
+People:
+- A small number of pedestrians (2–4 people maximum)
+- People walking naturally in the background
+- No one looking at the camera
+- No one speaking
+- No dramatic gestures
+- No running
+- No crowd
+
+Vehicles:
+- Optional slow-moving cars in the far background
+- No close-up vehicles
+- No buses
+- No bikes passing close to camera
+
+--------------------------------------------------
+CAMERA SETTINGS (VERY IMPORTANT)
+--------------------------------------------------
+
+Camera Angle:
+- Eye-level
+- Straight-on view of the street
+
+Framing:
+- Wide shot
+- Street centered
+- Trees visible on both sides
+- Buildings visible in background
+
+Camera Movement:
+- Static camera
+- No zoom
+- No pan
+- No tilt
+- No handheld motion
+- No cinematic movement
+
+--------------------------------------------------
+LIGHTING & WEATHER (LOCKED)
+--------------------------------------------------
+
+Lighting:
+- Natural daylight
+- Soft, even lighting
+- No dramatic shadows
+- No lighting changes during clip
+
+Weather:
+- Clear or lightly cloudy
+- No rain
+- No fog
+- No wind effects
+
+Color Style:
+- Natural colors
+- No color grading
+- No stylized filters
+
+--------------------------------------------------
+AUDIO SETTINGS
+--------------------------------------------------
+
+Voiceover:
+- Neutral professional voice
+- Calm and steady tone
+- Mid-paced delivery
+- No emotional emphasis
+
+Audio Rules:
+- Voice only
+- No ambient city noise
+- No footsteps
+- No traffic sound
+
+--------------------------------------------------
+TIMING RULES
+--------------------------------------------------
+
+Timing:
+- Voiceover delivered evenly within 10 seconds
+- Visual scene remains unchanged throughout
+- No beats synced to words
+
+--------------------------------------------------
+STRICT DO-NOT RULES
+--------------------------------------------------
+
+- Do NOT add avatars or presenters
+- Do NOT add scene changes
+- Do NOT change camera framing
+- Do NOT add motion effects
+- Do NOT add extra people
+- Do NOT modify the script
+- Do NOT introduce creativity
+
+This prompt is for generation similarity testing only.

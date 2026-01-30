@@ -1,0 +1,72 @@
+Create a [VIDEO_LENGTH] avatar-driven marketing video for [COMPANY_NAME].
+Use the avatar: [AVATAR_NAME].
+Include voiceover, expressions, gestures, text overlays, and logos as specified.
+Focus on friendly, professional, and approachable delivery.
+
+FULL SCRIPT (Avatar Voiceover):
+
+Scene 1 – Intro / Hook ([SCENE1_START]–[SCENE1_END]s):
+Line: “[SCENE1_LINE]”
+Avatar Expression: [SCENE1_EXPRESSION]
+Gestures: [SCENE1_GESTURE]
+Text Overlay: “[SCENE1_TEXT]”
+Background: [SCENE1_BACKGROUND]
+
+Scene 2 – Problem & Value ([SCENE2_START]–[SCENE2_END]s):
+Line: “[SCENE2_LINE]”
+Avatar Expression: [SCENE2_EXPRESSION]
+Gestures: [SCENE2_GESTURE]
+Text Overlay: “[SCENE2_TEXT]”
+Background: [SCENE2_BACKGROUND]
+
+Scene 3 – Highlight Products ([SCENE3_START]–[SCENE3_END]s):
+Line: “[SCENE3_LINE]”
+Avatar Expression: [SCENE3_EXPRESSION]
+Gestures: [SCENE3_GESTURE]
+Text Overlay: Show animated logos of: [SCENE3_LOGOS]
+Background: [SCENE3_BACKGROUND]
+
+Scene 4 – Benefits / Results ([SCENE4_START]–[SCENE4_END]s):
+Line: “[SCENE4_LINE]”
+Avatar Expression: [SCENE4_EXPRESSION]
+Gestures: [SCENE4_GESTURE]
+Text Overlay: “[SCENE4_TEXT]”
+Background: [SCENE4_BACKGROUND]
+
+Scene 5 – Call-to-Action / Brand ([SCENE5_START]–[SCENE5_END]s):
+Line: “[SCENE5_LINE]”
+Avatar Expression: [SCENE5_EXPRESSION]
+Gestures: [SCENE5_GESTURE]
+Text Overlay: “[SCENE5_TEXT]”
+Background: [SCENE5_BACKGROUND]
+
+Scene 6 – Outro / Logo Focus ([SCENE6_START]–[SCENE6_END]s):
+Line: “[SCENE6_LINE]”
+Avatar Expression: [SCENE6_EXPRESSION]
+Gestures: [SCENE6_GESTURE]
+Text Overlay: “[SCENE6_TEXT]”
+Background: [SCENE6_BACKGROUND]
+Logo: [SCENE6_LOGO]
+
+STYLE & VISUAL DIRECTION:
+- [STYLE_NOTES]
+
+VOICE & AUDIO:
+- Tone: [VOICE_TONE]
+- Pace: [VOICE_PACE]
+- Accent: [VOICE_ACCENT]
+- Background music: [MUSIC_STYLE]
+
+VIDEO SETTINGS:
+- Length: [VIDEO_LENGTH]
+- Aspect ratio: [ASPECT_RATIO]
+- Avatar: [AVATAR_NAME]
+- Include text overlays: [TEXT_OVERLAYS]
+- Include logos: [LOGOS_LIST]
+- Maintain gestures and expressions synchronized with script
+
+IMPORTANT NOTES:
+- Do not add extra dialogue or scenes
+- Keep script exactly as written
+- Logos: [LOGO_GUIDELINES]
+- Maintain [BRAND_GUIDELINES]
