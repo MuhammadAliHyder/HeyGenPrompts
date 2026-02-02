@@ -1,0 +1,162 @@
+Create a 10-second AVATAR-LESS video for output consistency testing.
+
+IMPORTANT:
+- Do NOT use any AI avatar or talking head
+- Use real-life style visuals with humans and scenery
+- Humans must look visually consistent across generations
+- Humans must NOT speak on screen
+- Voiceover only
+
+--------------------------------------------------
+GLOBAL CONSTRAINTS (VERY IMPORTANT)
+--------------------------------------------------
+
+- Single scene only
+- No scene transitions
+- No cuts
+- No text overlays
+- No logos
+- No background music
+- No sound effects
+- No creative additions
+
+--------------------------------------------------
+SCRIPT (LOCKED — DO NOT CHANGE WORDING)
+--------------------------------------------------
+
+FULL SCRIPT (voiceover only, exact wording):
+
+“Modern teams collaborate better when their tools are simple, connected, and reliable. Workplace is as essential as the tools are. At FeedReach, we deliver the best we could to our beloved customers.”
+
+--------------------------------------------------
+IDENTITY LOCK (CRITICAL — FOLLOW EXACTLY)
+--------------------------------------------------
+
+The same two people must appear in every generation.
+Do NOT vary their appearance, facial structure, clothing, or age.
+
+Person 1 (Male):
+- Race: Asian
+- Age: early 30s
+- Skin tone: medium
+- Hair: short black hair, neatly styled
+- Clean-shaven
+- Thin black rectangular glasses
+- Navy blue button-down shirt
+
+Person 2 (Female):
+- Race: Asian
+- Age: early 30s
+- Skin tone: medium
+- Hair: straight black hair, shoulder-length
+- Light gray blazer over white top
+
+Do NOT introduce alternative faces, hairstyles, outfits, or ages.
+
+--------------------------------------------------
+VISUAL SCENE DEFINITION (CONTROLLED B-ROLL)
+--------------------------------------------------
+
+Scene Type:
+- One continuous modern corporate office environment
+- Clean, minimal, realistic style
+- Glass partition walls in background
+- Neutral office furniture
+- One or two green indoor plants visible in background
+- No posters
+- No wall text
+- No screens visible in background
+
+Human Placement:
+- Both people seated side-by-side at the same desk
+- Male seated slightly closer to the camera
+- Female seated slightly farther from the camera
+- Both looking at the same open laptop
+
+Action Ownership (VERY IMPORTANT):
+- ONLY the male is actively using the laptop
+- Male performs one slow scroll on the laptop trackpad
+- Female does NOT touch the laptop
+- Female performs one subtle nod only
+- No other movements
+
+--------------------------------------------------
+CAMERA SETTINGS (VERY IMPORTANT — STRICT)
+--------------------------------------------------
+
+Camera Angle:
+- Eye-level
+- Camera positioned SLIGHTLY to the LEFT of the subjects
+- Subjects viewed at a slight left-to-right angle
+- Not a straight frontal shot
+
+Framing:
+- Wide-medium shot
+- Both people visible from waist up
+- Male appears slightly more prominent in frame
+- Desk and laptop clearly visible
+
+Camera Motion (ALLOWED):
+- Very slow, subtle push-in (micro zoom)
+- Push-in lasts entire 10 seconds
+- No pan
+- No tilt
+- No shake
+
+--------------------------------------------------
+BACKGROUND ACTIVITY (CONTROLLED)
+--------------------------------------------------
+
+Background People:
+- At most ONE background person
+- Background person walks slowly from left to right
+- Background person remains out of focus
+- No interaction with main subjects
+- No stopping or gestures
+
+--------------------------------------------------
+LIGHTING & COLOR
+--------------------------------------------------
+
+Lighting:
+- Soft, even indoor office lighting
+- No lighting changes
+- No dramatic shadows
+
+Color Style:
+- Neutral corporate palette
+- Whites, light grays, muted blues, soft greens (plants only)
+- No stylized grading
+
+--------------------------------------------------
+AUDIO SETTINGS
+--------------------------------------------------
+
+Voiceover:
+- Neutral professional voice
+- Calm and steady tone
+- Mid-paced delivery
+
+Audio Rules:
+- Voice only
+- No ambient office noise
+
+--------------------------------------------------
+TIMING RULES
+--------------------------------------------------
+
+- Entire script delivered within 10 seconds
+- Visual remains continuous and stable
+
+--------------------------------------------------
+STRICT DO-NOT RULES
+--------------------------------------------------
+
+- Do NOT add avatars
+- Do NOT add additional foreground people
+- Do NOT change identities
+- Do NOT change action ownership
+- Do NOT add branding or text
+- Do NOT add extra camera movement
+
+This prompt is for generation similarity testing only.
